@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá, eu sou o Jeogam! 👋</h1>
+  <h1>Olá, eu sou o Jeovani! 👋</h1>
   <h3>💻 Desenvolvedor Back-End em formação</h3>
   
   <p>
@@ -9,13 +9,13 @@
 
   <br>
 
-  <a href="https://instagram.com/SEU_USUARIO_DO_INSTA" target="_blank">
+  <a href="https://instagram.com/gamaj.e" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a> 
-  <a href="mailto:SEU_EMAIL_PESSOAL@GMAIL.COM">
+  <a href="mailto:jeovanisgama@gmail.com">
     <img src="https://img.shields.io/badge/-Email%20Pessoal-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:SEU_EMAIL_INSTITUCIONAL@ESCOLA.EDU.BR">
+  <a href="mailto:20241ireads0020@ifba.edu.br">
     <img src="https://img.shields.io/badge/-Email%20Institucional-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>
 </div>
